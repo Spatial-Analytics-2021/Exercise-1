@@ -3,9 +3,8 @@
 The exercise for this week is meant to:
   
 1. help you to get going with Python, 
-2. help you to learn in practice how to do point pattern analysis, 
-3. help you to learn how to check whether your data is spatially autocorrelated, and
-2. help you to learn to use our course environment  
+2. help you to learn in practice how to do point pattern analysis, and 
+3. help you to learn to use our course environment  
   
 You will practice saving changes to your files using Git and GitHub. You will also get to practice the Markdown syntax. If using Git, GitHub and Python is familiar to you, GOOD, then starting this Exercise should be fairly straightforward for you.
 
